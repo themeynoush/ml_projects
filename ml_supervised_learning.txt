@@ -1,0 +1,28 @@
+In this file we are reviewing some key notes regarding supervised learning in ML.
+
+
+Supervised machine learning is based on the following core concepts:
+
+* Data
+* Model
+* Training
+* Evaluating
+* Inference
+
+Data contains "Features" and "Lables"
+
+Features are the characteristics of the data
+Labels are the "Answers" to the predictions.
+
+Let's say we want to predict the amount of rain in some regions.
+The features could be the time of the year, temperature, the longitude and the latitude
+While the lable is the rainfall amount.
+
+In the training data set we always have labled data.
+But in the test dataset we are going to predict the lables.
+
+
+The 2 characteristics of a data set are "Size" and "Diversity"
+A good dataset is data set has a large Size and high Diversity.
+
+† A dataset can also be characterized by the number of its features.
